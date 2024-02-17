@@ -1,0 +1,10 @@
+D:\RiderProjects\SortingVisualiser\SortingAlgo\bin\Debug\netstandard2.1\SortingAlgo.deps.json
+D:\RiderProjects\SortingVisualiser\SortingAlgo\bin\Debug\netstandard2.1\SortingAlgo.dll
+D:\RiderProjects\SortingVisualiser\SortingAlgo\bin\Debug\netstandard2.1\SortingAlgo.pdb
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.AssemblyInfoInputs.cache
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.AssemblyInfo.cs
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.sourcelink.json
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.dll
+D:\RiderProjects\SortingVisualiser\SortingAlgo\obj\Debug\netstandard2.1\SortingAlgo.pdb
